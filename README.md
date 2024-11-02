@@ -1,6 +1,6 @@
-# Hi there, I'm [Andra] 👋
+# Hi there, I'm Andra. 👋
 
-Selamat datang di profil GitHub saya! Saya seorang [Web Backend/Programmer Backend.].
+Selamat datang di profil GitHub saya! Saya seorang [Web Backend/Programmer Backend.]
 
 ## 🔧 Teknologi dan Alat
 
@@ -11,7 +11,7 @@ Selamat datang di profil GitHub saya! Saya seorang [Web Backend/Programmer Backe
 
 ## 🌟 Proyek Unggulan
 
-1. **[kasir](AndraZero121/kasir)**: Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
+1. **[kasir](kasir)**: Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
 
 ## 📫 Kontak
 
