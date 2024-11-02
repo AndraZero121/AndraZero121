@@ -1,22 +1,20 @@
 # Hi there, I'm Andra. 👋
 
-Selamat datang di profil GitHub saya! Saya seorang [Web Backend/Programmer Backend.]
+Welcome to my profile, I am a Web Backend Programmer. I am still a student who is still studying at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id) who chose the RPL or Software Engineering major. I started working in the Web world in early 2020.
 
-## 🔧 Teknologi dan Alat
+## 🔧 Technology and Tools
 
-- **Bahasa Pemrograman:** [PHP, JavaScript.]
-- **Framework:** [React, Node.js, Laravel, dll.]
-- **Database:** [MySQL, MongoDB, PostgreSQL, dll.]
-- **Alat lainnya:** [Docker, Git, VSCode, dll.]
+- **Programming Languages:** [PHP, JavaScript.]
+- **Framework:** [React, Node.js, Laravel, etc.]
+- **Database:** [MySQL, MongoDB, PostgreSQL, etc.]
+- **Other tools:** [Docker, Git, VSCode, etc.]
 
-## 🌟 Proyek Unggulan
+## 🌟 Featured Projects
 
-1. **[kasir](kasir)**: Deskripsi singkat tentang proyek ini dan teknologi yang digunakan.
+1. **[kasir](kasir)**: A brief description of this project and the technology used.
 
-## 📫 Kontak
+## 📫 Contact
 
-Saya selalu terbuka untuk diskusi dan kolaborasi. Kamu bisa menghubungi saya di:
+I am always open for discussion and collaboration. You can reach me at:
 - [Email](diandraanursasyabandira@example.com)
-- [LinkedIn](https://www.linkedin.com/in/Andra)
-
-😊
+- [LinkedIn](https://www.linkedin.com/in/andra-anursa-764b92317/)
