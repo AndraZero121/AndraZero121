@@ -16,5 +16,5 @@ Welcome to my profile, I am a Web Backend Programmer. I am still a student who i
 ## 📫 Contact
 
 I am always open for discussion and collaboration. You can reach me at:
-- [Email](mailto:diandraanursasyabandira@gmail.com)
+- [Discord](https://discord.com/AndraZero121)
 - [LinkedIn](https://www.linkedin.com/in/andra-anursa-764b92317/)
