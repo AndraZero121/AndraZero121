@@ -31,7 +31,7 @@ I love learning new things and building impactful projects. Here are the technol
 
 ## 🌟 Featured Projects
 
-### 1. **[kasir](../kasir)**  
+### 1. **[kasir](https://github.com/AndraZero121/kasir)**
 A point-of-sale (POS) system designed for small businesses. It helps users manage sales, inventory, and transactions seamlessly.  
 *Tech Stack*: PHP, MySQL, Laravel
 
@@ -43,7 +43,7 @@ I’m always open to collaborating on exciting projects, discussing new ideas, o
 
 - **[Discord](https://discord.com/AndraZero121)**
 - **[LinkedIn](https://www.linkedin.com/in/andra-anursa-764b92317/)**
-- **[GitHub](https://github.com/andra)**
+- **[GitHub](https://github.com/AndraZero121)**
 
 ---
 
