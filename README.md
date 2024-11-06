@@ -20,6 +20,7 @@ I love learning new stuff and building projects that make a real difference. Her
 ![Laravel](https://img.shields.io/badge/Laravel-EA4C89?style=flat-square&logo=laravel&logoColor=white&labelColor=333333)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&labelColor=333333)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=333333)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=333333)
 
 ### **Databases I Work With**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=333333)  
@@ -30,6 +31,7 @@ I love learning new stuff and building projects that make a real difference. Her
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=333333)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=333333)  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=333333)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=333333
 
 ---
 
