@@ -8,7 +8,7 @@
 
 I'm a passionate **Web Backend Developer** and a Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id). Since early 2020, I've been on an exciting journey in web development, specializing in backend technologies and building solutions that make a difference.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif"/>
 
 ### Quick Facts About Me:
 - 🌱 Currently exploring the depths of Software Engineering
