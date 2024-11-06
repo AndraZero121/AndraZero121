@@ -1,10 +1,10 @@
-# Hey there, I'm Andra! 👋
+# Hello guys, I'm Andra! 👋
 
-Welcome to my little corner of GitHub! I'm a **Web Backend Programmer** and a student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id), currently diving deep into **Software Engineering (RPL)**. I started exploring the world of web development back in **early 2020**, and since then, I've been hooked on backend technologies.
+Welcome to my work station of GitHub! I'm a **Web Backend Programmer** and a student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id), currently diving DEEP into **Software Engineering (RPL)**. I started exploring the world of web development back in **early 2020**, and since then, I've been hooked on backend technologies.
 
 ---
 
-## 🔧 Technologies & Tools I’m Currently Working With
+## 🔧 Technologies & Tools I’m Currently Working With?
 
 I love learning new stuff and building projects that make a real difference. Here are some of the tools and technologies I enjoy working with:
 
@@ -33,7 +33,7 @@ I love learning new stuff and building projects that make a real difference. Her
 
 ---
 
-## 🌟 Check Out Some of My Projects
+## 🌟 Check Out Some of My Projects!
 
 Here are a couple of my projects that I’ve worked on. Feel free to check them out and let me know what you think! 😊
 
@@ -47,7 +47,7 @@ A **CRUD** system designed for managing libraries. It helps keep track of books,
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect :3
 
 I’m always open to chatting about coding, collaborating on cool projects, or just sharing ideas. Don’t hesitate to reach out to me through any of these platforms:
 
@@ -57,7 +57,7 @@ I’m always open to chatting about coding, collaborating on cool projects, or j
 
 ---
 
-### 🚀 GitHub Stats
+### 🚀 GitHub Stats :()
 
 Here’s a little peek at my GitHub activity. Let’s keep growing together! 🌱
 
@@ -65,7 +65,7 @@ Here’s a little peek at my GitHub activity. Let’s keep growing together! �
 
 ---
 
-### 🔥 Top Languages
+### 🔥 Top Languages 🔥
 
 Here’s a snapshot of the languages I’m using most right now. If you're curious about any of them, feel free to ask!
 
