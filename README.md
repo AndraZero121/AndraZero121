@@ -9,23 +9,23 @@ Welcome to my profile. I'm a passionate **Web Backend Programmer** and a student
 I love learning new things and building impactful projects. Here are the technologies I'm most familiar with:
 
 ### **Programming Languages**
-- **PHP**  
-- **JavaScript**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### **Frameworks & Libraries**
-- **Express.js**
-- **Next.js**
-- **Laravel**
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-EA4C89?style=flat&logo=laravel&logoColor=white)
 
 ### **Databases**
-- **MySQL**
-- **MongoDB**
-- **PostgreSQL**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### **Other Tools**
-- **Docker**  
-- **Git**  
-- **VSCode**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
