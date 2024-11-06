@@ -1,24 +1,32 @@
-# Hi there! I'm Andra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there! I'm Andra. 👨‍💻
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Engineering+Student;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a passionate **Web Backend Developer** and a Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id). Since early 2020, I've been on an exciting journey in web development, specializing in backend technologies and building solutions that make a difference.
+I'm a passionate **Web Backend Developer** and a Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id). Since 2020, I've been diving deep into web development, with a strong focus on backend technologies and solving real-world problems through code.
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif"/>
+<img align="right" width="400" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="Coding gif" />
 
-### Quick Facts About Me:
-- 🌱 Currently exploring the depths of Software Engineering
-- 💡 Love turning ideas into reality through code
-- 🚀 Always excited to learn new technologies
-- 🤝 Open for collaboration on interesting projects
+### A Few Quick Facts:
+- 🌱 Currently exploring **Software Engineering** in depth
+- 💡 Passionate about turning **ideas** into functional **solutions** with code
+- 🚀 Always eager to **learn new technologies**
+- 🤝 Open for collaboration on exciting projects
+
+---
 
 ## 🛠️ My Tech Arsenal
 
-### Languages
+### **Languages:**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,7 +34,7 @@ I'm a passionate **Web Backend Developer** and a Software Engineering student at
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Frameworks & Libraries
+### **Frameworks & Libraries:**
 <p>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -36,14 +44,14 @@ I'm a passionate **Web Backend Developer** and a Software Engineering student at
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### Databases
+### **Databases:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+### **Tools & Platforms:**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -51,7 +59,11 @@ I'm a passionate **Web Backend Developer** and a Software Engineering student at
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
+
 ## 🎯 Featured Projects
+
+Here are some of my proudest projects:
 
 <div align="center">
   <a href="https://github.com/AndraZero121/kasir">
@@ -61,6 +73,8 @@ I'm a passionate **Web Backend Developer** and a Software Engineering student at
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=perpustakaan&theme=tokyonight" />
   </a>
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -73,7 +87,11 @@ I'm a passionate **Web Backend Developer** and a Software Engineering student at
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndraZero121&theme=tokyonight&layout=compact" alt="Top Languages" />
 </div>
 
+---
+
 ## 🤝 Connect With Me
+
+Let's get in touch! Feel free to reach out to me through any of these platforms:
 
 <div align="center">
   <a href="https://discord.com/AndraZero121">
@@ -93,6 +111,4 @@ I'm a passionate **Web Backend Developer** and a Software Engineering student at
 
 ---
 
-<div align="center">
-  <i>⚡ Happy coding! Let's build something amazing together! ⚡</i>
-</div>
+<i align="center">⚡ **Happy coding, Happy working!** Let's build something WOW! ⚡</i>
