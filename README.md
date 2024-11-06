@@ -1,4 +1,4 @@
-# Hi there! I'm Andra 👨‍💻
+# Yo Guys! I'm Andra! 👨‍💻
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me :3
 
 I'm a passionate **Web Backend Developer** and a Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id). Since 2020, I've been diving deep into web development, with a strong focus on backend technologies and solving real-world problems through code.
 
@@ -24,7 +24,7 @@ I'm a passionate **Web Backend Developer** and a Software Engineering student at
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🛠️ My Work Tool?
 
 ### **Languages:**
 <p>
@@ -89,7 +89,7 @@ Here are some of my proudest projects:
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me!!
 
 Let's get in touch! Feel free to reach out to me through any of these platforms:
 
@@ -111,4 +111,4 @@ Let's get in touch! Feel free to reach out to me through any of these platforms:
 
 ---
 
-<i align="center">⚡ **Happy coding!** Let's build something amazing together! ⚡</i>
+<i align="center">⚡ **Happy coding, Happy Life!** Let's build something amazing together! ⚡</i>
