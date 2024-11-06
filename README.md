@@ -31,9 +31,13 @@ I love learning new things and building impactful projects. Here are the technol
 
 ## 🌟 Featured Projects
 
-### 1. **[kasir](https://github.com/AndraZero121/kasir)**
+### 1. **[Cashier](https://github.com/AndraZero121/kasir)**
 A point-of-sale (POS) system designed for small businesses. It helps users manage sales, inventory, and transactions seamlessly.  
-*Tech Stack*: PHP, MySQL, Laravel
+*Tech Stack*: PHP, JavaScript, MySQL
+
+### 2. **[Library](https://github.com/AndraZero121/perpustakaan)**
+A CRUD system designed for library management. It helps users manage books, members, and transactions efficiently.  
+*Tech Stack*: PHP, MySQL
 
 ---
 
