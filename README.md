@@ -49,13 +49,13 @@ I’m always open to collaborating on exciting projects, discussing new ideas, o
 
 ### 🚀 GitHub Stats
 
-![Andra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andra&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=github_dark)
+![Andra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndraZero121&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=github_dark)
 
 ---
 
 ### 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andra&theme=github_dark&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndraZero121&theme=github_dark&layout=compact&langs_count=8)
 
 ---
 
