@@ -96,7 +96,7 @@ Here are some of my proudest projects:
 Let's get in touch! Feel free to reach out to me through any of these platforms:
 
 <div align="center">
-  <a href="https://discord.com/869801200235737129">
+  <a href="https://discord.gg/v597hVKRpm">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/andra-anursa-764b92317/">
