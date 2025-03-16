@@ -1,11 +1,11 @@
-# <div align="center">🌸 Konichiwa, I'm Andra! ✨👨‍💻</div>
+# <div align="center">👋 Hi there, I'm Andra! ✨👨‍💻</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=450&lines=Backend+Developer+with+Anime+Power;Software+Engineering+Student;Server-side+Architecture+Enthusiast;Coding+like+a+Shonen+Protagonist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&center=true&vCenter=true&width=450&lines=Backend+Developer+Extraordinaire;Software+Engineering+Student;Server-side+Architecture+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,27 +19,23 @@
 
 ---
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9bfco6Kcd1slfz08o1_500.gif" width="400" />
-</div>
+## 👨‍💻 About Me <img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="anime gif" />
 
-## 👨‍💻 About Me <img align="right" width="200" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="anime girl coding" />
+I'm a passionate **Backend Developer** and Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id), crafting robust server-side solutions since 2020. My expertise lies in architecting scalable APIs, optimizing database performance, and building secure web applications.
 
-Like a true anime protagonist, I'm on a journey to become the greatest **Backend Developer** in the realm of coding! Currently training at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id), I've been honing my development skills since 2020. My power lies in creating robust server-side solutions, just like how a support character strengthens the main team!
-
-### 🚀 My Character Stats:
-- 🔮 Casting code spells since 2020
-- 🌟 Special ability: Turning complex problems into elegant solutions
-- 📚 Currently in my training arc, leveling up my Software Engineering skills
-- 🎮 Side quests include exploring new technologies and frameworks
-- 🤝 Looking for guild members to collaborate on epic projects!
+### 🚀 Quick Facts:
+- 🔥 Turning coffee into code since 2020
+- 🌐 Specialized in RESTful API development and server-side architecture
+- 🛠️ Solving real-world problems through elegant backend solutions
+- 📚 Always diving deeper into system design and performance optimization
+- 🤝 Eager to collaborate on innovative projects that push boundaries
 
 ---
 
-## 💻 Tech Stack (My Skill Tree)
+## 💻 Tech Stack
 
 <details open>
-<summary>🔧 Languages & Core Technologies (Primary Weapons)</summary>
+<summary>🔧 Languages & Core Technologies</summary>
 <br>
   
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -51,7 +47,7 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
 </details>
 
 <details open>
-<summary>🧰 Frameworks & Libraries (Special Moves)</summary>
+<summary>🧰 Frameworks & Libraries</summary>
 <br>
   
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -66,7 +62,7 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
 </details>
 
 <details open>
-<summary>🗄️ Databases & Storage (Inventory System)</summary>
+<summary>🗄️ Databases & Storage</summary>
 <br>
   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,7 +74,7 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
 </details>
 
 <details open>
-<summary>🔨 Tools & DevOps (Support Items)</summary>
+<summary>🔨 Tools & DevOps</summary>
 <br>
   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -93,11 +89,7 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
 
 ---
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f5/36/01/f53601133f185e8acd968a3bac03163c.gif" width="500" />
-</div>
-
-## 🎯 My Epic Quests (Featured Projects)
+## 🎯 Featured Projects
 
 <div align="center">
   <a href="https://github.com/AndraZero121/kasir">
@@ -109,12 +101,12 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
 </div>
 
 <div align="center">
-  <i>Check out my repositories for more legendary projects!</i>
+  <i>Check out my repositories for more projects!</i>
 </div>
 
 ---
 
-## 📊 My Power Levels (GitHub Stats)
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndraZero121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -130,11 +122,7 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
 
 ---
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/72/8c/b4/728cb43f48000ae3af05a1c7b8d9183e.gif" width="300" />
-</div>
-
-## 🤝 Join My Party (Let's Connect!)
+## 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://discord.gg/v597hVKRpm">
@@ -154,7 +142,7 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
   </a>
 </div>
 
-## 🎁 Support My Anime Subscription (Donate)
+## 🎁 Support My Work
 
 <div align="center">
   <a href="https://saweria.co/AndraZero121">
@@ -167,11 +155,9 @@ Like a true anime protagonist, I'm on a journey to become the greatest **Backend
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AndraZero121.AndraZero121" alt="visitors">
 </div>
-
 <div align="center">
-  <i>✨ "It's not a bug – it's an undocumented feature." - Anime Programmer's Creed ✨</i>
+  <i>✨ "It's not a bug – it's an undocumented feature." - AndraZero121 ✨</i>
 </div>
-
 <div align="center">
   <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="400" />
 </div>
