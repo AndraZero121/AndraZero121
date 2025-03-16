@@ -1,11 +1,11 @@
-# <div align="center">👋 Hi there, I'm Andra! ✨👨‍💻</div>
+# <div align="center">👋 Hello, I'm Andra! ✨👨‍💻</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&center=true&vCenter=true&width=450&lines=Backend+Developer+Extraordinaire;Software+Engineering+Student;Server-side+Architecture+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&center=true&vCenter=true&width=450&lines=Backend+Developer+Extraordinaire;Software+Engineering+Student;Server-side+Architecture+Enthusiast;Always+Learning+%26+Building+New+Things;Gamers+Animanga+Lovers" alt="Typing SVG" />
 </div>
 
 <div align="center">
