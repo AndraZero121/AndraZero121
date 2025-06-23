@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello, I'm Andra! ✨👨‍💻</div>
+# <div align="center">👋 Hi, I'm Andra! ✨👨‍💻</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" />
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me <img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="anime gif" />
 
-I'm a passionate **Backend Developer** and Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id), crafting robust server-side solutions since 2020. My expertise lies in architecting scalable APIs, optimizing database performance, and building secure web applications.
+I'm a passionate **Backend Developer** and Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id), crafting robust server-side solutions since 2023. My expertise lies in architecting scalable APIs, optimizing database performance, and building secure web applications.
 
 ### 🚀 Quick Facts:
 - 🔥 Turning coffee into code since 2020
