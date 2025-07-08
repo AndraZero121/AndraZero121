@@ -24,7 +24,7 @@
 I'm a passionate **Backend Developer** and Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id), crafting robust server-side solutions since 2023. My expertise lies in architecting scalable APIs, optimizing database performance, and building secure web applications.
 
 ### 🚀 Quick Facts:
-- 🔥 Turning coffee into code since 2020 (HTML + CSS + JS + PHP jir wkwkkwk)
+- 🔥 Turning coffee into code since 2020 (awal nyoba html buat basenya jir wkwkkwk)
 - 🌐 Specialized in RESTful API development and server-side architecture (Amin)
 - 🛠️ Solving real-world problems through elegant backend solutions (Stress gw njir)
 - 📚 Always diving deeper into system design and performance optimization (frfr)
