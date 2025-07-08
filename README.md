@@ -92,11 +92,11 @@ I'm a passionate **Backend Developer** and Software Engineering student at [SMK 
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/AndraZero121/kasir">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=kasir&theme=tokyonight" />
+  <a href="https://github.com/AndraZero121/api-resource-typer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=api-resource-typer&theme=tokyonight" />
   </a>
-  <a href="https://github.com/AndraZero121/perpustakaan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=perpustakaan&theme=tokyonight" />
+  <a href="https://github.com/AndraZero121/az-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=az-store&theme=tokyonight" />
   </a>
 </div>
 
