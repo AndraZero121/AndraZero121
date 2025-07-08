@@ -25,10 +25,10 @@ I'm a passionate **Backend Developer** and Software Engineering student at [SMK 
 
 ### 🚀 Quick Facts:
 - 🔥 Turning coffee into code since 2020 (HTML + CSS + JS + PHP jir wkwkkwk)
-- 🌐 Specialized in RESTful API development and server-side architecture
-- 🛠️ Solving real-world problems through elegant backend solutions
-- 📚 Always diving deeper into system design and performance optimization
-- 🤝 Eager to collaborate on innovative projects that push boundaries
+- 🌐 Specialized in RESTful API development and server-side architecture (Amin)
+- 🛠️ Solving real-world problems through elegant backend solutions (Stress gw njir)
+- 📚 Always diving deeper into system design and performance optimization (frfr)
+- 🤝 Eager to collaborate on innovative projects that push boundaries (infokan)
 
 ---
 
