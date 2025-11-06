@@ -18,7 +18,7 @@
 <img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="shiroko gif" />
 
 ## 👨‍💻 About Me
-Passionate **Backend Developer** & Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id). I craft scalable APIs, tune databases, and ship secure web apps.
+Passionate **Backend Developer** at [Untrustnova](https://github.com/untrustnova). I craft scalable APIs, tune databases, and ship secure web apps.
 
 - 🔥 Turning coffee into code since 2020 *(awal nyoba HTML dulu wkwk)*
 - 🌐 RESTful APIs, server-side architecture, auth & caching
@@ -81,10 +81,10 @@ Passionate **Backend Developer** & Software Engineering student at [SMK Palapa S
 
 ## 🎯 Featured Projects
 <a href="https://github.com/AndraZero121/api-resource-typer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=api-resource-typer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=docs-horizon&theme=tokyonight" />
 </a>
 <a href="https://github.com/AndraZero121/az-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=az-store&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=text-to-ascii&theme=tokyonight" />
 </a>
 
 > *Check out my repositories for more projects!*
@@ -118,6 +118,6 @@ Passionate **Backend Developer** & Software Engineering student at [SMK Palapa S
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=AndraZero121.AndraZero121" alt="visitors">
 
-<i>✨ "It's not a bug – it's an undocumented feature." - AndraZero121 ✨</i>
+<i>✨ "Just enjoy your passion." - AndraZero121 ✨</i>
 
 <img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="400" />
