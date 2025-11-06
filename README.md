@@ -1,41 +1,45 @@
-<!-- Hero -->
-<h1 align="center">👋 Hi, I'm Andra</h1>
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%94%A7;Software+Engineering+Student+%7C+SMK+Palapa+Semarang;API+Architecture+%26+Performance+Enthusiast;Always+Learning%2C+Building%2C+Shipping">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%94%A7;Software+Engineering+Student+%7C+SMK+Palapa+Semarang;API+Architecture+%26+Performance+Enthusiast;Always+Learning%2C+Building%2C+Shipping" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Hero (left-aligned, no hard-center) -->
+# 👋 Hi, I'm Andra!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
-<p align="center">
-  <a href="https://discord.gg/v597hVKRpm"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/diandraanursa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/AndraZero121"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.instagram.com/andrazero121/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/23950465/andrazero121"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v597hVKRpm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diandraanursa/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndraZero121)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrazero121/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23950465/andrazero121)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndraZero121)
+
+<!-- Typing banner (hiasan lama) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Backend+Developer+Extraordinaire;Software+Engineering+Student;Server-side+Architecture+Enthusiast;Always+Learning+%26+Building+New+Things;Gamers+and+Animanga+Lovers" alt="Typing SVG" />
 
 ---
 
-<!-- About -->
-<img align="right" width="170" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="fun gif"/>
+<!-- About (Shiroko di kanan = hiasan lama) -->
+<img align="right" width="180" src="https://media1.tenor.com/m/ZUu2eKdA8BwAAAAd/petting-shiroko-shiroko-fumo.gif" alt="shiroko gif" />
 
-### About Me
-Passionate **Backend Developer** & software engineering student. I design and implement scalable APIs, optimize databases, and focus on reliability, security, and developer experience.
+## 👨‍💻 About Me
+Passionate **Backend Developer** & Software Engineering student at [SMK Palapa Semarang](https://smkpalapasemarang.sch.id). I craft scalable APIs, tune databases, and ship secure web apps.
 
-- 🔭 Building server-side systems since 2023  
-- 🧠 Interests: RESTful APIs, authentication/authorization, caching, observability  
-- 🌱 Currently learning **Go (Golang)** for high-performance services  
-- 🤝 Open to collaborate on backend-heavy projects  
-- ☕ Coffee-powered, test-driven (most days 😄)
+- 🔥 Turning coffee into code since 2020 *(awal nyoba HTML dulu wkwk)*
+- 🌐 RESTful APIs, server-side architecture, auth & caching
+- ⚙️ Reliability-first: logs, tracing, health checks, graceful shutdown
+- 🔎 Currently learning **Go (Golang)** to build high-performance services
+- 🤝 Open to collaborate on backend-heavy projects
 
 ---
 
-### Tech Stack
-<div align="center">
+## 🧭 What I Focus On (Improvisasi)
+- **API Design**: clean routes, idempotency, pagination, rate limiting  
+- **Data Layer**: indexes, query plan, connection pooling  
+- **Security**: input validation, authZ/authN, OWASP Top 10 awareness  
+- **DX & Ops**: structured logging, tracing, CI checks, containerized dev
 
-<!-- Languages -->
-<details open>
-<summary><b>Languages</b></summary><br>
+---
+
+## 💻 Tech Stack
+<!-- Tidak dipaksa center; badge dibiarkan natural -->
+
+**Languages**
   
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -43,12 +47,8 @@ Passionate **Backend Developer** & software engineering student. I design and im
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</details>
-
-<!-- Frameworks -->
-<details open>
-<summary><b>Frameworks & Libraries</b></summary><br>
-
+**Frameworks & Libraries**
+  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,13 +57,8 @@ Passionate **Backend Developer** & software engineering student. I design and im
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- (Optional Go ecosystem: Gin/Fiber/Echo) -->
-</details>
-
-<!-- Databases -->
-<details open>
-<summary><b>Databases & Storage</b></summary><br>
-
+**Databases & Storage**
+  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -71,12 +66,8 @@ Passionate **Backend Developer** & software engineering student. I design and im
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-</details>
-
-<!-- Tools -->
-<details open>
-<summary><b>Tools & DevOps</b></summary><br>
-
+**Tools & DevOps**
+  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -86,71 +77,47 @@ Passionate **Backend Developer** & software engineering student. I design and im
 ![Ngrok](https://img.shields.io/badge/Ngrok-0085FF?style=for-the-badge&logo=ngrok&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</details>
-</div>
+---
+
+## 🎯 Featured Projects
+<a href="https://github.com/AndraZero121/api-resource-typer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=api-resource-typer&theme=tokyonight" />
+</a>
+<a href="https://github.com/AndraZero121/az-store">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=az-store&theme=tokyonight" />
+</a>
+
+> *Check out my repositories for more projects!*
 
 ---
 
-### Featured Projects
-<p align="center">
-  <a href="https://github.com/AndraZero121/api-resource-typer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=api-resource-typer&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/AndraZero121/az-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=az-store&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center"><i>Explore more on my repositories.</i></p>
+## 📊 GitHub Analytics
+<!-- Tetap hiasan lama, tapi tidak dipaksa center -->
+<img src="https://github-readme-stats.vercel.app/api?username=AndraZero121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndraZero121&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndraZero121&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+
+<!-- Optional -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AndraZero121&theme=onedark&no-frame=true&row=1&column=6" /> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndraZero121&theme=tokyo-night&hide_border=true" /> -->
 
 ---
 
-### What I Focus On
-- API design: clean routes, idempotency, pagination, rate limiting  
-- Data: indexing strategy, query optimization, connection pooling  
-- Reliability: structured logging, tracing, health checks, graceful shutdown  
-- Security: input validation, secure auth flows, OWASP top 10 awareness
+## 🤝 Let's Connect!
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v597hVKRpm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diandraanursa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrazero121/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndraZero121)
+
+## 🎁 Support My Work
+[![Saweria](https://img.shields.io/badge/Saweria-FF3030?style=for-the-badge&logo=saweria&logoColor=white)](https://saweria.co/AndraZero121)
 
 ---
 
-### GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndraZero121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndraZero121&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndraZero121&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AndraZero121.AndraZero121" alt="visitors">
 
-<!-- Optional trophies (can remove if you prefer a cleaner look) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndraZero121&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
+<i>✨ "It's not a bug – it's an undocumented feature." - AndraZero121 ✨</i>
 
-<!-- Optional activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndraZero121&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-### Connect
-<p align="center">
-  <a href="https://discord.gg/v597hVKRpm"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/diandraanursa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/andrazero121/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/AndraZero121"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
-### Support
-<p align="center">
-  <a href="https://saweria.co/AndraZero121"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-FF3030?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndraZero121.AndraZero121" alt="visitors">
-</p>
-
-<!-- Footer -->
-<p align="center"><i>“It's not a bug – it's an undocumented feature.” — AndraZero121</i></p>
+<img src="https://i.pinimg.com/originals/a5/5f/3a/a55f3a50c3e6737c179769f973315477.gif" width="400" />
