@@ -113,10 +113,10 @@ I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digi
 ## 🎯 Featured Projects
 
 <a href="https://github.com/untrustnova/nova">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Untrustnova&repo=NovaJS&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=untrustnova&repo=nova&theme=tokyonight" />
 </a>
 <a href="https://github.com/untrustnova/rusters-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Untrustnova&repo=Rusters Framework&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=untrustnova&repo=rusters-cli&theme=tokyonight" />
 </a>
 
 > *Check out my repositories for more projects, and explore [Novarsity](https://github.com/untrustnova) for our studio's work.*
