@@ -1,6 +1,6 @@
 <!-- Hero -->
 # 👋 Hi, I'm Andra
-### Founder & CTO @ [Novarsity](https://github.com/untrustnova) · Backend Developer · Systems Architect
+### Founder & CTO @[Novarsity](https://github.com/untrustnova) · Web Developer (PHP · Laravel · Go)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
@@ -11,7 +11,7 @@
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23950465/andrazero121)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndraZero121)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+CTO+at+Novarsity;Backend+Developer+Extraordinaire;Server-side+Architecture+Enthusiast;Building+Rust+on+Apache+(ROA);Gamers+and+Animanga+Lovers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+CTO+at+Novarsity;Web+Developer%3A+PHP+(Laravel)+%26+Go;Learning+DevOps+%26+Server+Configuration;Building+Nova.js+-+a+JS+Framework+on+Bun;Gamers+and+Animanga+Lovers" alt="Typing SVG" />
 
 ---
 
@@ -22,13 +22,13 @@
 I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digital services studio where I set technical direction and build backend systems that keep everything running.
 
 - 🏢 Leading engineering & architecture decisions at **Novarsity**
-- 🔥 Backend developer at heart — turning coffee into code since 2020
-- 🌐 RESTful APIs, server-side architecture, auth & caching
+- 🌐 Main focus: **Web Development**, with **PHP (Laravel)** and **Go** as my primary stack
+- 🔥 Turning coffee into code since 2020
 - ⚙️ Reliability-first: logs, tracing, health checks, graceful shutdown
-- 🦀 Building **Rust on Apache (ROA)** — a custom CLI-driven framework integrating Rust with Apache
-- 🐧 Daily driver: Arch Linux + Hyprland
-- 🔎 Currently leveling up in **Go (Golang)** for high-performance services
-- 🤝 Open to collaborate on backend-heavy or systems-level projects
+- 🚀 Building **Nova.js** — a JavaScript framework powered by the **Bun** runtime, integrated with [**Seishiro**](https://nakikoneko.gitbook.io/seishiroapi/)
+- 📚 Currently learning **DevOps & Server Configuration**
+- 🐧 Daily driver: Arch Linux + Hyprland (also comfortable across Debian, Ubuntu & Windows 11)
+- 🤝 Open to collaborate on web-heavy or systems-level projects
 
 ---
 
@@ -49,12 +49,13 @@ I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digi
 
 ---
 
-## 🧭 What I Focus On
+## 🧭 What I Focus On / Improving
 
+- **Web Development** — building and maintaining web apps & platforms with PHP (Laravel) and Go
+- **DevOps & Server Configuration** — currently deepening my skills here: deployments, containerization, server hardening
 - **API Design** — clean routes, idempotency, pagination, rate limiting
-- **Data Layer** — indexes, query plans, connection pooling
 - **Security** — input validation, authZ/authN, OWASP Top 10 awareness
-- **DX & Ops** — structured logging, tracing, CI checks, containerized dev
+- **Data Layer** — indexes, query plans, connection pooling
 
 ---
 
@@ -79,6 +80,8 @@ I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digi
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 
 **Databases & Storage**
 
@@ -87,11 +90,13 @@ I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digi
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Tools, DevOps & Environment**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -100,6 +105,9 @@ I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digi
 ![Ngrok](https://img.shields.io/badge/Ngrok-0085FF?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -119,11 +127,12 @@ I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digi
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=AndraZero121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndraZero121&theme=tokyonight" alt="Profile Details" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndraZero121&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndraZero121&theme=tokyonight" alt="GitHub Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndraZero121&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndraZero121&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndraZero121&theme=tokyonight" alt="Most Commit Language" />
 
 ---
 
