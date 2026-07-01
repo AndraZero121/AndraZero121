@@ -1,5 +1,5 @@
 <!-- Hero -->
-# 👋 Hi, I'm Andra
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+CTO+at+Novarsity;Web+Developer%3A+PHP+(Laravel)+%26+Go;Learning+DevOps+%26+Server+Configuration;Building+Nova.js+-+a+JS+Framework+on+Bun;Gamers+and+Animanga+Lovers" alt="Typing SVG" /> Hi, I'm Andra
 ### Founder & CTO @[Novarsity](https://github.com/untrustnova) · Web Developer (PHP · Laravel · Go)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
@@ -10,8 +10,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrazero121/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23950465/andrazero121)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndraZero121)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+CTO+at+Novarsity;Web+Developer%3A+PHP+(Laravel)+%26+Go;Learning+DevOps+%26+Server+Configuration;Building+Nova.js+-+a+JS+Framework+on+Bun;Gamers+and+Animanga+Lovers" alt="Typing SVG" />
 
 ---
 
