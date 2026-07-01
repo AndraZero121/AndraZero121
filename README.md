@@ -112,11 +112,11 @@ I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digi
 
 ## 🎯 Featured Projects
 
-<a href="https://github.com/AndraZero121/api-resource-typer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=docs-horizon&theme=tokyonight" />
+<a href="https://github.com/untrustnova/nova">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Untrustnova&repo=NovaJS&theme=tokyonight" />
 </a>
-<a href="https://github.com/AndraZero121/az-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndraZero121&repo=text-to-ascii&theme=tokyonight" />
+<a href="https://github.com/untrustnova/rusters-cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Untrustnova&repo=Rusters Framework&theme=tokyonight" />
 </a>
 
 > *Check out my repositories for more projects, and explore [Novarsity](https://github.com/untrustnova) for our studio's work.*
