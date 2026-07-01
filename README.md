@@ -1,6 +1,6 @@
 <!-- Hero -->
 # 👋 Hi, I'm Andra
-### Founder & CTO @ [Novarsity](https://github.com/untrustnova) · Web Developer (PHP · Laravel · Go)
+### Founder & CTO @[Novarsity](https://github.com/untrustnova) · Web Developer (PHP · Laravel · Go)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v597hVKRpm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diandraanursa/)
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm the **Founder & CTO of [Novarsity](https://github.com/untrustnova)**, a digital services studio where I set technical direction and build backend systems that keep everything running.
+I'm the **Founder & COO of [Novarsity](https://github.com/untrustnova)**, a digital services studio where I set technical direction and build backend systems that keep everything running.
 
 - 🏢 Leading engineering & architecture decisions at **Novarsity**
 - 🌐 Main focus: **Web Development**, with **PHP (Laravel)** and **Go** as my primary stack
