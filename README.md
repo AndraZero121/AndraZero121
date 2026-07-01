@@ -1,8 +1,8 @@
 <!-- Hero -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+CTO+at+Novarsity;Web+Developer%3A+PHP+(Laravel)+%26+Go;Learning+DevOps+%26+Server+Configuration;Building+Nova.js+-+a+JS+Framework+on+Bun;Gamers+and+Animanga+Lovers" alt="Typing SVG" /> # Hi, I'm Andra
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> <h5>Hi, I'm Andra</h5>
 ### Founder & CTO @[Novarsity](https://github.com/untrustnova) · Web Developer (PHP · Laravel · Go)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+CTO+at+Novarsity;Web+Developer%3A+PHP+(Laravel)+%26+Go;Learning+DevOps+%26+Server+Configuration;Building+Nova.js+-+a+JS+Framework+on+Bun;Gamers+and+Animanga+Lovers" alt="Typing SVG" /> 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v597hVKRpm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diandraanursa/)
