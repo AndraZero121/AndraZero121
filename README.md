@@ -25,8 +25,8 @@ I'm the **Founder & COO of [Novarsity](https://github.com/untrustnova)**, a digi
 - ⚙️ Reliability-first: logs, tracing, health checks, graceful shutdown
 - 🚀 Building **Nova.js** — a JavaScript framework powered by the **Bun** runtime, integrated with [**Seishiro**](https://nakikoneko.gitbook.io/seishiroapi/)
 - 📚 Currently learning **DevOps & Server Configuration**
-- 🐧 Daily driver: Arch Linux + Hyprland (also comfortable across Debian, Ubuntu & Windows 11)
-- 🤝 Open to collaborate on web-heavy or systems-level projects
+- 🐧 Daily driver: Arch Linux (I'm use Arch btw.) + Hyprland (also comfortable across Debian, Ubuntu & Windows 11)
+- 🤝 Open to collaborate on web-heavy or systems-level projects! :3
 
 ---
 
@@ -80,7 +80,7 @@ I'm the **Founder & COO of [Novarsity](https://github.com/untrustnova)**, a digi
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
-![Filament](https://img.shields.io/badge/Laravel-BE8400?style=for-the-badge&logo=filament&logoColor=black)
+![Filament](https://img.shields.io/badge/Filament-BE8400?style=for-the-badge&logo=filament&logoColor=black)
 
 **Databases & Storage**
 
