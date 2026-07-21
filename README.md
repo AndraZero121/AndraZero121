@@ -9,7 +9,7 @@
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23950465/andrazero121)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndraZero121)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+CTO+at+Novarsity;Web+Developer%3A+PHP+(Laravel)+%26+Go;Learning+DevOps+%26+Server+Configuration;Building+Nova.js+-+a+JS+Framework+on+Bun;Gamers+and+Animanga+Lovers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD600&vCenter=true&width=650&lines=Founder+%26+COO+at+Novarsity;Web+Developer%3A+PHP+(Laravel)+%26+Go;Learning+DevOps+%26+Server+Configuration;Building+Nova.js+-+a+JS+Framework+on+Bun;Gamers+and+Animanga+Lovers" alt="Typing SVG" />
 
 ---
 
@@ -80,6 +80,7 @@ I'm the **Founder & COO of [Novarsity](https://github.com/untrustnova)**, a digi
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![Filament](https://img.shields.io/badge/Laravel-BE8400?style=for-the-badge&logo=filament&logoColor=black)
 
 **Databases & Storage**
 
